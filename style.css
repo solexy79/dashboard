@@ -20,7 +20,7 @@ body{
 
 
 .container{
-  width: 100%;
+  width: 100vw;
   height: 100vh;
   background: #e5e5e5;
   display: grid;
@@ -479,7 +479,7 @@ tr:nth-child(even) {
   .content-body{
     margin: 1rem 0rem 0rem 0;
   }
-  
+
   input[type = 'text']{
     width: 60%;
     height: 40px;
