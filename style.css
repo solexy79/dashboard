@@ -517,7 +517,7 @@ tr:nth-child(even) {
 
   .search-box{
     margin-right: .5rem;
-    width: 85%;
+    width: 90%;
   }
 
   .search-box i{
@@ -552,7 +552,7 @@ tr:nth-child(even) {
    
   }
   input[type = 'text']{
-    width: 75%;
+    width: 80%;
 
   }
   
