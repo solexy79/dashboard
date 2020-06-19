@@ -216,6 +216,7 @@ input[type ='search']{
 .api-nav li:nth-child(1){
   border-top: 1px solid #353535;
   border-right: 1px solid #353535;
+  font-weight: bold;
 }
 
 .api-nav p{
